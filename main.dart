@@ -23,6 +23,8 @@ class MyApp extends StatelessWidget {
             ListTile(leading: Icon(Icons.map), title: Text('Undyne')),
             ListTile(leading: Icon(Icons.photo_album), title: Text('Alphys')),
             ListTile(leading: Icon(Icons.phone), title: Text('Papyrus')),
+            ListTile(leading: Icon(Icons.photo_album), title: Text('Sans')),
+            ListTile(leading: Icon(Icons.phone), title: Text('Frisk')),
           ],
         ),
       ),
